@@ -7,7 +7,7 @@
 你的电脑不需要任何配置，只需要执行以下代码即可：
 
 ```shell
-curl https://raw.githubusercontent.com/bestswifter/macbootstrap/master/bootstrap.sh | sh
+curl https://raw.githubusercontent.com/zyphs21/macbootstrap/master/bootstrap.sh | sh
 ```
 
 `bootstrap.sh` 文件首先会安装 Xcode-command tool，安装完成后你的电脑将会拥有 git 工具。
