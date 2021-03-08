@@ -1,6 +1,6 @@
 #!bin/bash
 
-xcode-select --install
+
 
 git clone https://github.com/zyphs21/macbootstrap.git ~/.macbootstrap
 cd ~/.macbootstrap
